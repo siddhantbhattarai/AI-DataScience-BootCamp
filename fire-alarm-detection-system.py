@@ -18,7 +18,7 @@ def play_alarm_sound_function():
 
 # Function to send an email notification
 def send_mail_function():
-    recipientEmail = "siddhantbhattarai@ismt.edu.np"
+    recipientEmail = "email-to-be-send@ismt.edu.np"
     recipientEmail = recipientEmail.lower()
 
     try:
